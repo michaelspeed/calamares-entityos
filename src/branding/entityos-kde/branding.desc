@@ -1,14 +1,14 @@
 ---
-componentName:  manjaro
+componentName:  entity
 
 strings:
-    productName:         Manjaro Linux
-    shortProductName:    Manjaro
-    version:             0.9.0-dev
-    shortVersion:        0.9
-    versionedName:       Manjaro Linux 0.9.0 "Bellatrix"
-    shortVersionedName:  Manjaro 0.9
-    bootloaderEntryName: Manjaro
+    productName:         Entity OS
+    shortProductName:    Entity
+    version:             0.2 - dev
+    shortVersion:        0.2
+    versionedName:       Entity OS 0.2.0 "BoneHead"
+    shortVersionedName:  Entity 0.2
+    bootloaderEntryName: Entity
 
 images:
     productLogo:         "squid.png"

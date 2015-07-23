@@ -1,0 +1,23 @@
+---
+componentName:  entity
+
+strings:
+    productName:         Entity OS
+    shortProductName:    Entity
+    version:             0.2 - dev
+    shortVersion:        0.2
+    versionedName:       Entity OS 0.2.0 "BoneHead"
+    shortVersionedName:  Entity 0.2
+    bootloaderEntryName: Entity
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
